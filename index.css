@@ -27,7 +27,7 @@
 }
 
 .burger {
-  background-image: url(/images/burger.jpg);
+  background-image: url(./images/burger.jpg);
   background-color: #f5f5fa;
   height: 100vh;
   background-size: cover;
